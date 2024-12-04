@@ -57,12 +57,3 @@ This project is a Flask-based web application that provides an API for image cap
 ## API Endpoints
 
 - **POST /upload**: Upload an image to receive a caption, sentiment analysis, and emotion detection.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- [Hugging Face Transformers](https://huggingface.co/transformers/)
-- [FER: Facial Emotion Recognition](https://github.com/justinshenk/fer)
